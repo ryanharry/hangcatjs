@@ -1,0 +1,18 @@
+body {
+  margin: 5px;
+  background-color: #FFD280;
+  font-family: 'Courier New', Courier, monospace;
+  color: #585858;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+input {
+  width: 100%;
+  -webkit-appearance: none;
+  border: none;
+  background-color: #FFFAFF;
+  padding: 5px 0px;
+  font-size: 15px;
+  margin: 0px 0px 5px 0px;
+}
